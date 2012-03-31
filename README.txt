@@ -1,7 +1,6 @@
 CI-Starter
 
-This is how I start some of my CI projects. Includes Codeigniter v2.1.0, a CSS folder with a style.css, 
-a js folder with a scripts.js, img folder and a htaccess file with some code to get rid of index.php.
+This is how I start some of my CI projects. Includes Codeigniter v2.1.0, a CSS folder with a style.css, a js folder with a scripts.js, img folder and a htaccess file with some code to get rid of index.php.
 
 Codeigniter version 2.1.0 http://codeigniter.com/
 
